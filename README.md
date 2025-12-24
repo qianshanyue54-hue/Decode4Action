@@ -1,4 +1,4 @@
-# Decode4Action-Intent
+# Decode4Action
 ## 1.Introduction
 ### Time
 A summary of my summer course, July, 2025
